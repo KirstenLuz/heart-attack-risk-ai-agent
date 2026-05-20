@@ -75,10 +75,17 @@ The experiments showed that the main limitation was not the algorithms themselve
 
 ```bash
 ├── data/
+│   ├── codificada.xlsx
+│   ├── IDs pacientes.xlsx
+│   └── main.xlsx
+│
 ├── notebooks/
-├── src/
-├── images/
-├── report/
+│   ├── division_balance.ipynb
+│   ├── oficial.ipynb
+│   ├── outliers.ipynb
+│   ├── random_forest.ipynb
+│   └── test.ipynb
+│
 └── README.md
 ```
 
